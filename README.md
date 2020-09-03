@@ -9,7 +9,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jonathan-hanley-ireland/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="https://www.linkedin.com/in/jonathan-hanley-ireland/" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/7131676/jonny" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="https://stackoverflow.com/users/7131676/jonny" height="30" width="30" /></a>
 </p>
-<hr>
+
+
 - 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Python and Django**
